@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.net.*;
 import java.util.Scanner;
 
-public class CLIENT {
+public class ClientUDP {
     public static void main(String[] args) throws IOException {
 
         boolean x=true;
